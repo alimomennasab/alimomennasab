@@ -6,6 +6,9 @@ I'm Ali Momennasab, an incoming freshman studying computer science at Cal Poly P
 
 If you want to reach out, please DM me on Twitter at [@MomennasabAli](https://twitter.com/MomennasabAli). Happy to answer any questions or collaborate!
 
+![](https://komarev.com/ghpvc/?username=alimomennasasb&color=blue)
+
+
 
 <!--
 **alimomennasab/alimomennasab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
