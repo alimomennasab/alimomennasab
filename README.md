@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello world! 👋
+I'm Ali Momennasab, an incoming freshman studying computer science at Cal Poly Pomona! I have interests in deep learning (particularly in healthcare applications) and IOS app development.
+
+- 🧘 I'm currently working on Stance, a posture-improvement app that uses augmented reality to suggest neck stretches.
+- 🤖 I'm currently improving my deep learning skills to eventually become good enough to pursue novel research.
+
+If you want to reach out, please DM me on Twitter at @momennasabali. Happy to answer any questions or collaborate!
+
 
 <!--
 **alimomennasab/alimomennasab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
