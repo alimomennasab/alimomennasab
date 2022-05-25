@@ -4,7 +4,7 @@ I'm Ali Momennasab, an incoming freshman studying computer science at Cal Poly P
 - 🧘 I'm currently working on Stance, a posture-improvement app that uses augmented reality to suggest neck stretches.
 - 🤖 I'm currently improving my deep learning skills to eventually become good enough to pursue novel research.
 
-If you want to reach out, please DM me on Twitter at [https://twitter.com/MomennasabAli]. Happy to answer any questions or collaborate!
+If you want to reach out, please DM me on Twitter at [@MomennasabAli](https://twitter.com/MomennasabAli). Happy to answer any questions or collaborate!
 
 
 <!--
