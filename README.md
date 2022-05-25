@@ -1,4 +1,4 @@
-### Hello world!
+### Hello world! 👋
 I'm Ali Momennasab, an incoming freshman studying computer science at Cal Poly Pomona! 
 
 I have interests in deep learning (particularly in healthcare applications) and IOS app development.
