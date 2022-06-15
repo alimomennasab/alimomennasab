@@ -10,8 +10,6 @@ If you want to reach out, please DM me on Twitter at [@MomennasabAli](https://tw
 
 ![](https://komarev.com/ghpvc/?username=alimomennasasb&color=blue)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alimomennasab)](https://git.io/streak-stats)
-
 <!--
 **alimomennasab/alimomennasab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
