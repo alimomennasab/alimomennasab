@@ -3,7 +3,7 @@ I'm Ali Momennasab, an incoming freshman studying computer science at Cal Poly P
  
 I have interests in deep learning (particularly in healthcare applications), IOS app development, and everything in between.
 
-- 🤖 I'm currently improving my deep learning skills to eventually pursue novel research in healthcare that helps others.
+- 🤖 I'm currently improving my deep learning skills to eventually pursue novel research in healthcare.
 
 If you want to reach out, please DM me on Twitter at [@MomennasabAli](https://twitter.com/MomennasabAli). Happy to answer any questions or collaborate!
 
