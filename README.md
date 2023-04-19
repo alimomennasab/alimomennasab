@@ -1,9 +1,9 @@
 ### Hey! ✌️
-I'm Ali Momennasab, an incoming freshman studying computer science at Cal Poly Pomona! 
+I'm Ali Momennasab, a freshman studying computer science at Cal Poly Pomona! 
  
 I have interests in deep learning (particularly in healthcare applications), IOS app development, and everything in between.
 
-- 🤖 I'm currently improving my deep learning skills to eventually pursue its applications in healthcare.
+Right now, I'm growing my deep learning skills while building an improved class registration portal for Cal Poly Pomona at [BroncoDirectMe](https://github.com/BroncoDirectMe).
 
 If you want to reach out, please DM me on Twitter at [@MomennasabAli](https://twitter.com/MomennasabAli). Happy to answer any questions or collaborate!
 
