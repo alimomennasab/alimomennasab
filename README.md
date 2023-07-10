@@ -1,6 +1,4 @@
-I'm Ali Momennasab, a freshman studying computer science at Cal Poly Pomona.
- 
-I have interests in deep learning (particularly in healthcare applications), IOS app development, and everything in between.
+I'm Ali Momennasab, a sophomore studying computer science at Cal Poly Pomona. I have interests in deep learning in healthcare applications, IOS app development, and everything in between.
 
 Right now, I'm growing my [deep learning skills](https://github.com/alimomennasab/ChestXRay-Classification) while building an improved class registration portal for Cal Poly Pomona at [BroncoDirectMe](https://github.com/BroncoDirectMe).
 
