@@ -1,4 +1,4 @@
-I'm Ali Momennasab, a junior studying computer science at Cal Poly Pomona. I have interests in deep learning, web development, and everything in between.
+I'm Ali Momennasab, a senior studying computer science & data science at Cal Poly Pomona. I'm interested in machine learning, and enjoy web development. 
 
 
 ![](https://komarev.com/ghpvc/?username=alimomennasasb&color=blue)
